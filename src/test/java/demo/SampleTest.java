@@ -8,7 +8,7 @@ public class SampleTest {
 	@Test
 	public void test()
 	{
-		System.out.println("This is a sample test");
+	 System.out.println("This is a sample test");
 	}
 	
 	
