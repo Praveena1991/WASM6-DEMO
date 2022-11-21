@@ -8,7 +8,12 @@ public class SampleTest {
 	@Test
 	public void test()
 	{
-	 System.out.println("This is a sample test");
+	 
+		System.out.println("This is a sample test");
+	 
+	 
+	 
+	 System.out.println("This is maven project work space user-1");
 	}
 	
 	public void test2()
