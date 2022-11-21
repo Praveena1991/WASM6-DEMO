@@ -14,6 +14,9 @@ public class SampleTest {
 	 
 	 
 	 System.out.println("This is maven project work space user-1");
+	 
+	 
+	 System.out.println("Hi this is user 1 Second commit");
 	}
 	
 	public void test2()
