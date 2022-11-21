@@ -9,11 +9,13 @@ public class SampleTest {
 	public void test()
 	{
 	 
-		System.out.println("This is a sample test");
+     System.out.println("This is a sample test");
 	 
 	 
 	 
 	 System.out.println("This is maven project work space user-1");
+	 
+	 System.out.println("Hi this is user 2 Eclipse Work Space 2");
 	}
 	
 	public void test2()
